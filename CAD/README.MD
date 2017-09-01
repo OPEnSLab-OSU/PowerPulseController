@@ -2,7 +2,7 @@ Here you can find the latest CAD links of the whole assembly and to the pieces t
 [Whole_Assembly](http://a360.co/2iNUFyC)  
 [Backboard_Assembly](http://a360.co/2wYKIEM)  
 
-3D Printed Pieces:
+3D Printed Pieces:  
 [Right_hinge](http://a360.co/2wYFUza)  
 [Left_hinge](http://a360.co/2wYNpWG)  
 [Base_hinge](http://a360.co/2vyUXzf)  
